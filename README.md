@@ -4,6 +4,7 @@
 - [如何运行demo](#如何运行demo)
 - [作者提供的服务](#作者提供的服务)
   - [提供web api的源码服务]
+- [价格](#价格)
 - [作者联系方式、寻求帮助、合作](#作者联系方式--寻求帮助--合作)
 - 
   ![Static Badge](https://img.shields.io/badge/GitHub-blue?logo=GitHub&labelColor=black)
